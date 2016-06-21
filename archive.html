@@ -2,10 +2,14 @@
 layout: default
 title: Archive
 ---
-<h1>hello world</h1>
-{% for post in site.posts %}
-	*{{ post.date | date_to_string }} &raquo; [{{ post.title }}]({{ post.url }})
-{% endfor %}
-
+<h1>Archive</h1>
+<ul>
+	{% for post in site.posts %}
+		<li>
+			<span>{{ site.time | date_to_string }}</span>
+			<a href="">{{post.title}}</a>
+		</li>
+	{% endfor %}
+</ul>
 
 {% include footer.html %}

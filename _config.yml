@@ -1,11 +1,11 @@
 name: Jekyll noob site
-description: shit mistake blog
+description: unproductive mistake blog
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 aboutPage: true
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 
 paginate: 1
 baseurl: /
