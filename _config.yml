@@ -1,10 +1,10 @@
-name: Jekyll noob site
+name: VERBOSE SPOON
 description: unproductive mistake blog
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+meta_description: "Kevin Hsieh blog featuring art and writing"
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 
 paginate: 1
@@ -16,7 +16,7 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'https://kvnhsh.github.io/'
-author:         'Your Name'
+author:         'Kevin Hsieh'
 authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
