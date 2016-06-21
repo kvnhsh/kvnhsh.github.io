@@ -5,7 +5,7 @@ meta_description: "Your New Jekyll Site, Blogging about stuffs"
 aboutPage: true
 
 markdown: redcarpet
-highlighter: rouge
+highlighter: pygments
 
 paginate: 1
 baseurl: /
