@@ -4,6 +4,6 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+I am interested in computers, art, and books. 
 
 {% include footer.html %}
