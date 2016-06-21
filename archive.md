@@ -3,14 +3,25 @@ title: Archive
 permalink: archive/
 ---
 
-
-{% if page.archive %}
-    <ul id="post-list" class="archive readmore">
-        <h3>Read more</h3>
-        {% for post in site.posts %}
-            <li>
-                <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }}<aside class="dates">{{ post.date | date:"%b %d" }}</aside></a>
-            </li>
-        {% endfor %}
-    </ul>
-{% endif %}
+<section id="archive">
+	<h3>Most recent posts</h3>
+	{% for post in site.posts %}
+		{% unless post.next %}
+		
+			<ul class="this">
+		{% else %}
+			{% capture year %}{{ post.date | date: '%Y }}{% endcapture %}
+			{% capture nyear %}{{ post.nexxt.date | date: '%Y }}{% endcapture %}
+			{% if year != nyear %}
+				</ul>
+				<h3>{{ post.date | date: '%Y' }}</h3>
+				<ul class="past">
+			
+			{% endif %}
+		{% endunless %}
+			
+			<li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ post.title }}</a></li>
+		
+	{% endfor %}
+	</ul>
+</section>
