@@ -1,7 +1,7 @@
 ---
-title:  "Hell is a Hell of a Drug"
+title:  "personal blog site sample post"
 date:   2014-12-10 10:18:00
-description: Thriller Ugandanian Existential
+description: Ugandanian Existential
 ---
 
 GitHub Wikis is a simple way to let others contribute content. Any GitHub user can create and edit pages to use for documentation, examples, support, or anything you wish.
