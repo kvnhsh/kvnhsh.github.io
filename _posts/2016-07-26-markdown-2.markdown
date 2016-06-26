@@ -1,6 +1,6 @@
 ---
 title:  "Markdown basics pt2"
-date:   2016-06-26 10:19:00
+date:   2016-07-26 10:18:00
 description: markdown basics
 ---
 
