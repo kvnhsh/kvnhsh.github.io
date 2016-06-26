@@ -4,8 +4,8 @@ date:   2013-11-10 10:18:00
 description: response to 'todo'
 ---
 
-1. how to use markdown language
-..+ [reference to markdown guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+### how to use markdown language
++ [reference to markdown guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. how to insert images in posts
 ![image-title-here]({{ site.baseurl }}assets/images/a01.jpg){:class="img-responsive"}
 
