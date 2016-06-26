@@ -55,7 +55,7 @@ body {
 	color: #666;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
-	background-color:green;
+	background-color:darkgrey;
 }
 
 h1 {
@@ -120,7 +120,7 @@ nav.main-nav {
 	text-align: left;
 	/*position: fixed;*/
 	z-index: 100;
-	background-color: green;
+	background-color: darkgrey;
 }
 
 nav.main-nav a {
@@ -237,7 +237,7 @@ span {
 
 .post h1 {
 	margin-bottom: 20px;
-	color: aliceblue;
+	color: black;
 	font: 300 1.4em "Helvetica Neue", Helvetica,Arial,sans-serif;
 }
 
@@ -250,9 +250,9 @@ span {
 
 .post h2.headline {
 	/*font: italic 22px/1.3em Georgia,serif;*/
-	font: normal 16px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: normal 18px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
 	margin: -5px 0 40px 0;
-	color: #b2b9be;
+	color: black;
 	  letter-spacing: 2px;
 	  /*margin-top: 15px;*/
 	  display: inline-block;
