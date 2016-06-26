@@ -55,7 +55,7 @@ body {
 	color: #666;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
-	background-color:green;
+	background-color:#5badf0;
 }
 
 h1 {
@@ -120,7 +120,7 @@ nav.main-nav {
 	text-align: right;
 	/*position: fixed;*/
 	z-index: 100;
-	background-color: green;
+	background-color: white;
 }
 
 nav.main-nav a {
