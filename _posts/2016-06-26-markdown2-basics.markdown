@@ -1,6 +1,6 @@
 ---
-title:  "Test Post 3"
-date:   2016-06-26 10:18:00
+title:  "Markdown basics pt2"
+date:   2016-06-26 10:19:00
 description: markdown basics
 ---
 
