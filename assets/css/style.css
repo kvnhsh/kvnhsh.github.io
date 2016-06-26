@@ -231,7 +231,7 @@ span {
 }
 
 .post header {
-	text-align:center;
+	text-align:left;
 
 }
 
@@ -250,7 +250,7 @@ span {
 
 .post h2.headline {
 	/*font: italic 22px/1.3em Georgia,serif;*/
-	font: normal 8px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: normal 16px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
 	margin: -5px 0 40px 0;
 	color: #b2b9be;
 	  text-transform: uppercase;
