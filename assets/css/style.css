@@ -225,6 +225,7 @@ span {
 .home h2 {
 	font: italic 19px/1.3em Georgia,serif;
 	color: #bbb;
+	
 }
 
 .post header {
@@ -259,7 +260,7 @@ span {
 
 #post-list h2 {
 	font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
-	color: #aaa;
+	color: #5badf0;
 	max-width: 400px;
 	margin-top: 2px;
 }
