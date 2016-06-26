@@ -237,8 +237,8 @@ span {
 
 .post h1 {
 	margin-bottom: 20px;
-	color: #222;
-	font: 300 32px/1.4em "Helvetica Neue", Helvetica,Arial,sans-serif;
+	color: #5694f1;
+	font: 300 1.4em "Helvetica Neue", Helvetica,Arial,sans-serif;
 }
 
 .post h2 {
@@ -252,8 +252,7 @@ span {
 	/*font: italic 22px/1.3em Georgia,serif;*/
 	font: normal 16px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
 	margin: -5px 0 40px 0;
-	color: #b2b9be;
-	  text-transform: uppercase;
+	color: white;
 	  letter-spacing: 2px;
 	  /*margin-top: 15px;*/
 	  display: inline-block;
