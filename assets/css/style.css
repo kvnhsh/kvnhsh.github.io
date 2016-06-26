@@ -55,6 +55,7 @@ body {
 	color: #666;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
+	background-color:green;
 }
 
 h1 {
