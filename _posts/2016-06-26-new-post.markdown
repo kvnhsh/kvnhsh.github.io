@@ -7,9 +7,9 @@ description: response to 'todo'
 1. how to use markdown language
 ..+ [reference to markdown guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. how to insert images in posts
-![image-title-here]({{ site.baseurl }}assets/css/images/a01.jpg){:class="img-responsive"}
+![image-title-here]({{ site.baseurl }}assets/images/a01.jpg){:class="img-responsive"}
 
-![image-title-here]({{ site.baseurl }}assets/css/images/a02.jpg){:class="img-responsive"}
+![image-title-here]({{ site.baseurl }}assets/images/a02.jpg){:class="img-responsive"}
 ..+ how to add caption
 3. implement tag system
 4. change from disqus to formspree
