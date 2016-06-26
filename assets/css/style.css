@@ -209,6 +209,9 @@ em, i { font-style: italic; }
 	color: #aaa;
 }
 
+span {
+	color: black;
+}
 
 
 .home h1 {
