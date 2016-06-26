@@ -120,6 +120,7 @@ nav.main-nav {
 	text-align: right;
 	/*position: fixed;*/
 	z-index: 100;
+	background-color: green;
 }
 
 nav.main-nav a {
