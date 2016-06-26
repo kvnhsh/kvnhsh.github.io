@@ -2,7 +2,7 @@
     {% for post in paginator.posts %}
         <li>
             <span><aside class="dates"><i class="fa fa-calendar-check-o"></i>{{ post.date | date:"%b %d" }}</aside></span>
-            <span><h1>{{ post.title }}</h1> <h2><i class="fa fa-commenting-o"></i>{{ post.description }}</h2></span>
+            <span><h1>{{ post.title }}</h1> <h2><i class="fa fa-commenting-o fa-rotate-180"></i>{{ post.description }}</h2></span>
 			<section id="wrapper">{{ post.content }}</section>
 		</li>
     {% endfor %}
