@@ -11,6 +11,8 @@ description: response to 'todo'
 
 ![image-title-here]({{ site.baseurl }}assets/images/a02.jpg){:class="img-responsive"}
 ..+ how to add caption
-3. implement tag system
+![image-title-here]({{ site.baseurl }}assets/images/a01.jpg)
+
+![image-title-here]({{ site.baseurl }}assets/images/a02.jpg)
 4. change from disqus to formspree
 ..+ on second thought, I don't need an email form but still want a comment section

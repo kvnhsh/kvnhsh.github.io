@@ -5,7 +5,7 @@ description: to do
 ---
 
 
-1. how to use markdown language
+how to use markdown language
 2. how to insert images in posts
 3. implement tag system
 4. change from disqus to formspree
